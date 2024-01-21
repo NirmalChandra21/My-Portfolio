@@ -4,7 +4,7 @@ export default [
         description: "Landing page for a fictional nature tourism company.",
         tools: "scss (focuses on floats)",
         img: "",
-        link: "",
+        link: "https://zeld-natours.netlify.app",
         type: "learning projects",
     },
 
