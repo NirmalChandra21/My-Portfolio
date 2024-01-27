@@ -21,7 +21,7 @@ export default [
         title: "Pig Game",
         description: "The popular dice game played with two players.",
         tools: "css, javascript",
-        img: "https://raw.githubusercontent.com/Peac-h/0_learning_projects/main/pig_game.png",
+        img: "",
         link: "https://zeld-pig-game.netlify.app/",
         type: "learning projects",
     },
@@ -31,6 +31,14 @@ export default [
         tools: "css, javascript (focuses on advanced DOM manipulation)",
         img: "",
         link: "https://zeld-bankist-app.netlify.app/",
+        type: "learning projects",
+    },
+    {
+        title: "ListEase",
+        description: "A todolist app",
+        tools: "css, javascript",
+        img: "",
+        link: "https://zeld-listease.netlify.app/",
         type: "learning projects",
     },
 ];
