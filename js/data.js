@@ -39,6 +39,6 @@ export default [
         tools: "css, javascript",
         img: "",
         link: "https://zeld-listease.netlify.app/",
-        type: "learning projects",
+        type: "personal projects",
     },
 ];
