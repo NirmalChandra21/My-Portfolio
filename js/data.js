@@ -41,4 +41,13 @@ export default [
         link: "https://zeld-listease.netlify.app/",
         type: "personal projects",
     },
+    {
+        title: "WatchList",
+        description: "An app to store your watched movie",
+        tools: "css, javascript, react",
+        img: "",
+        link: "https://watchedlist-zeld.netlify.app/",
+        type: "personal projects",
+    },
+    
 ];
