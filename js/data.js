@@ -49,5 +49,13 @@ export default [
         link: "https://watchedlist-zeld.netlify.app/",
         type: "personal projects",
     },
+    {
+        title: "Pizzo Co",
+        description: "An website where you can order pizza",
+        tools: "react",
+        img: "",
+        link: "https://pizza-zeld.netlify.app/",
+        type: "learning projects",
+    },
     
 ];
