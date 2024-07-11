@@ -52,7 +52,7 @@ export default [
     {
         title: "Pizzo Co",
         description: "An website where you can order pizza",
-        tools: "react",
+        tools: "tailwind, react (focus on redux)",
         img: "",
         link: "https://pizza-zeld.netlify.app/",
         type: "learning projects",
